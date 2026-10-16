@@ -1,0 +1,40 @@
+{
+  "kpis": {
+    "total_employees": 1470,
+    "attrition_rate_pct": 16.1,
+    "avg_monthly_income": 6503.0,
+    "avg_years_at_company": 7.0,
+    "avg_job_satisfaction_out_of_4": 2.73,
+    "high_risk_employee_share_pct": 10.4
+  },
+  "drivers": {
+    "top_department_by_attrition": "Sales",
+    "top_department_attrition_pct": 20.6,
+    "lowest_department_by_attrition": "Research & Development",
+    "lowest_department_attrition_pct": 13.8,
+    "top_role_by_attrition": "Sales Representative",
+    "top_role_attrition_pct": 39.8,
+    "overtime_attrition_pct": 30.5,
+    "no_overtime_attrition_pct": 10.4,
+    "median_income_stayed": 5204.0,
+    "median_income_left": 3202.0,
+    "lowest_satisfaction_attrition_pct": 22.8,
+    "highest_satisfaction_attrition_pct": 11.3
+  },
+  "model_metrics": {
+    "accuracy_pct": 82.0,
+    "roc_auc": 0.778,
+    "n_train": 1176,
+    "n_test": 294
+  },
+  "top_features": {
+    "MonthlyIncome": 0.088,
+    "Age": 0.071,
+    "TotalWorkingYears": 0.063,
+    "YearsAtCompany": 0.054,
+    "OverTime": 0.054,
+    "DailyRate": 0.053,
+    "MonthlyRate": 0.045,
+    "DistanceFromHome": 0.043
+  }
+}
