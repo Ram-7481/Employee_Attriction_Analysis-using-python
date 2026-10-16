@@ -1,6 +1,6 @@
 # Employee_Attriction_Analysis-using-python
 Python-based HR analytics project predicting employee attrition from IBM dataset (1470 employees) using Random Forest - 82% accuracy.
-overview = """
+overview = 
 A Business Intelligence project that analyzes HR data to identify
 employee attrition trends, key risk factors, and retention strategies.
 
